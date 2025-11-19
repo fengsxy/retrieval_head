@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs and debug
+logs/
+*.log
+
+# Results, checkpoints, and models
+results/
+models/
+checkpoints/
+
+# Large context / cache directories
+contexts/
+faiss_attn/
+haystack_for_detect/
+head_score/
+PaulGrahamEssays/
+
+# Visualization / temp directories
+
+zij8ZQVy/
+ziYM85rS/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Shell / helper script outputs
+
