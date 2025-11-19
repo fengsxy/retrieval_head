@@ -27,7 +27,6 @@ logs/
 
 # Results, checkpoints, and models
 results/
-models/
 checkpoints/
 
 # Large context / cache directories
