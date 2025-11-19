@@ -32,10 +32,9 @@ checkpoints/
 
 # Large context / cache directories
 contexts/
-faiss_attn/
-haystack_for_detect/
-head_score/
-PaulGrahamEssays/
+
+
+
 
 # Visualization / temp directories
 
